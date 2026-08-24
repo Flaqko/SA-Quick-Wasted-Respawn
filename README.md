@@ -30,7 +30,7 @@ Designed for:
 ---
 
 ## Installation
-Copy the file `QuickWastedRespawn_v1.0.0.js` into your game directory:
+Copy the file `SA_QuickWastedRespawn.js` into your game directory:
 ```text
 GTA San Andreas\CLEO\
 ```
