@@ -1,4 +1,4 @@
-# Quick Wasted Respawn v1.0.0
+# Quick Wasted Respawn
 > **GTA San Andreas Classic + CLEO Redux JavaScript**
 
 ## Description
